@@ -29,7 +29,7 @@ github_username:  adlnet
 # Build settings
 theme: minima
 header_pages:
-  - DoDI.markdown
+  - DoDIRef.md
 
 plugins:
   - jekyll-feed
