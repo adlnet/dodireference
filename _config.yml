@@ -21,7 +21,7 @@
 title: DoDI 1322.26 Reference
 description: >-
    DoDI 1322.26 "Distributed Learning" (updated 2017), establishes Department of Defense (DoD) policy and procedures for developing and managing distributed learning for military/civilian personnel. 
-baseurl: "/DoDI" # the subpath of your site, e.g. /blog
+baseurl: "/dodireference" # the subpath of your site, e.g. /blog
 url: "https://adlnet.github.io"
 twitter_username: ADL_Initiative
 github_username:  adlnet
