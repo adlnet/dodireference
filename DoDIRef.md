@@ -46,32 +46,32 @@ Table of Contents
 
 [Certification and Credential Management....................................](#Section3CertCred2)
 
-Section 4: Enterprise Digital Learning Modernization..................................
+[Section 4: Enterprise Digital Learning Modernization..................................](#Section4)
 
-Section 5: Reference Implementations / Code...........................................
+[Section 5: Reference Implementations / Code...........................................](#Section5)
 
-Appendix A: Detailed Requirements..........................................
+[Appendix A: Detailed Requirements..........................................](#AppendixA)
 
-Job Skills Data Standard (SCD).............................................
+[Job Skills Data Standard (SCD).............................................](#AppendixASCD1)
 
-Learning Metadata Terms (LMT)..............................................
+[Learning Metadata Terms (LMT)..............................................](#AppendixALMT2)
 
-xAPI / xAPI Profiles / cmi5................................................
+[xAPI / xAPI Profiles / cmi5................................................](#AppendixAxAPI3)
 
-Enterprise Learner Record (ELR)............................................
+[Enterprise Learner Record (ELR)............................................](#AppendixAELR4)
 
-Appendix B: Implementation Strategies......................................
+[Appendix B: Implementation Strategies......................................](#AppendixB)
 
-Appendix C: Actor-driven Requirements / RTVMs / User Stories................
+[Appendix C: Actor-driven Requirements / RTVMs / User Stories................](#AppendixC)
 
 **External Links:**
 
-- **Github.IO**
-- **Published xAPI Profiles**
-- **Enterprise Course Catalog**
-- **Linked Data and Schema Service**
-- **Enterprise Learner Record Repository**
-- **Cmi5 Testing (CATAPULT)**
+- [**Github.IO**](https://adlnet.github.io/)
+- [**Published xAPI Profiles**](https://github.com/adlnet/xapi-authored-profiles)
+- [**Enterprise Course Catalog**](https://adlnet.github.io/#ecc)
+- [**Linked Data and Schema Service**](https://adlnet.github.io/#ldss)
+- [**Enterprise Learner Record Repository**](https://adlnet.github.io/#elrr)
+- [**Cmi5 Testing (CATAPULT)**](https://adlnet.github.io/#catapult)
 
 **Section 1: Overview of Required Standards**
 
