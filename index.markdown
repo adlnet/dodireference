@@ -5,10 +5,6 @@ layout: home
 
 **1\. Overview**
 
-**1322.26 Digital Learning (DL) Implementation Reference: DoW Data Strategy leveraging Data Standards for ensuring standardized enterprise data for education, training and skill sets of DoW workforce**
-
-**1\. Overview**
-
 The [Department of Defense Instruction (DoDI) 1322.26](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/132226_dodi_2017.pdf?ver=2017-10-05-073235-400/home_new) ("Distributed Learning") establishes policy and requirements for a data strategy for defining, collecting and sharing data related to the education, training, and skill sets needed to effectively perform a job in the DoW. The 1322.26 Implementation Reference is intended to directly accompany the DoDI by defining the technical requirements to support interoperability for education, training and job data across the DoW.
 
 These technical specifications were derived from requirements captured across DoW, driven by the use cases of organizations in government, industry, and academia, and were governed by Standards Development Organizations (SDOs) such as the Institute for Electrical and Electronic Engineers (IEEE).
