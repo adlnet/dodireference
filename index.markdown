@@ -1,6 +1,11 @@
 ---
 layout: home
 ---
+## ADL Initiative Projects
+
+*The ADL Initiative has been formally sunset. While the program has ended, its repositories have been archived and remain available for continued public use. Additional context and resources are available here: <https://adlnet.github.io/>*
+
+
 **1322.26 Digital Learning (DL) Implementation Reference: DoW Data Strategy leveraging Data Standards for ensuring standardized enterprise data for education, training and skill sets of DoW workforce**
 
 **1\. Overview**
