@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-## ADL Initiative Projects
-
 *The ADL Initiative has been formally sunset. While the program has ended, its repositories have been archived and remain available for continued public use. Additional context and resources are available here: <https://adlnet.github.io/>*
 
 
