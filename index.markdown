@@ -421,8 +421,7 @@ The Activity ID for an Object in an xAPI Statement SHALL implement the following
 - Create a unique Activity ID according to the recommended scheme and example figure below. Note: The Uniform Resource Identifier (URI) in this example is structured around The Naval Education and Training Command, the hosting organization of the activity. Different DoD Components would use URIs within their control.
 - Content developers SHALL maintain an inventory list of Activity IDs used for each project in order to avoid causing Activity ID collisions by accidentally creating and using the same Activity IDs for different activities. The Activity ID inventory list is a required document that should be updated and shared with all relevant stakeholders.
 
-![Example Activity ID List]!(assets/Actiivty-ID-Examples.png)
-
+![Example Activity ID List](assets/Actiivty-ID-Examples.png)
 Figure 3: Activity ID Examples_
 
 **Context:** The **Context** property of an xAPI Statement contains additional information related to a learning experience. It provides a place to add some contextual information to a Statement. It could store information such as the instructor for an experience, if this experience happened as part of a team-based Activity, or how an experience fits into some broader activity. Please see the general xAPI Statement requirements for examples of these objects and their properties in the sections below.
@@ -806,7 +805,7 @@ Entries in this appendix are intended to be taken in part or in whole and provid
 
 TLA Maturity occurs by acquisition, use, and integration of specific systems and conformance to standards that are relevant to those systems or web services. The following levels of TLA Maturity contain corresponding following systems/services. Implied components that are not systems are shown in parenthesis only. TLA Maturity levels for each of the systems and services, as well as an overall way to "score" TLA Maturity, are listed in subsequent sections. Note: A Learning Content Management System (LCMS) is considered a Learning Management System (LMS) for the purposes of LMS requirements in this document. Figure 4 shows the levels of the TLA.
 
-![Total Learning Architecture Maturity Model]!(assets/TLA-Maturity-Model.png)
+![Total Learning Architecture Maturity Model](assets/TLA-Maturity-Model.png)
 
 Figure 4: The Total Learning Architecture Maturity Model
 
